@@ -1,2 +1,5 @@
-# UWPDemo
-C# UWP (Universal Windows Platform) Demo Application
+# Universal Windows Platform Demo Application
+
+## Author
+
+**Kevin DOOLAEGHE**
